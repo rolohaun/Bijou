@@ -13,6 +13,7 @@ Features:
 
 - Simple 2020 Frame only 1 sizes needed, no drilling or taping
 - Klicky Probe Support
+- Sailfin Direct Drive Extruder Support
 
 BOM
 https://docs.google.com/spreadsheets/d/1nYMNJQScirm3ykZU8kyfmQuEbCC1vtWDH2YyEYYs_pw/edit?usp=sharing
