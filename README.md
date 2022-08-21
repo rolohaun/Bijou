@@ -15,7 +15,7 @@ Features:
 - Klicky Probe Support
 
 BOM
-https://docs.google.com/spreadsheets/d/1nYMNJQScirm3ykZU8kyfmQuEbCC1vtWDH2YyEYYs_pw/edit#gid=0
+https://docs.google.com/spreadsheets/d/1nYMNJQScirm3ykZU8kyfmQuEbCC1vtWDH2YyEYYs_pw/edit?usp=sharing
 
 Support me on Patreon
 https://www.patreon.com/rolohaun
