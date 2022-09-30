@@ -1,7 +1,7 @@
 # Bijou
 Welcome to the DIY 3D Printer called Bijou!
 
-This is a tiny 110x110 H-Bot 3D Printer for beginner builders
+This is a tiny 140x140 H-Bot 3D Printer for beginner builders
 
 ![](Images/Bijou.png)
 
