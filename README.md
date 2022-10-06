@@ -18,6 +18,9 @@ Features:
 BOM Belted Z
 https://docs.google.com/spreadsheets/d/1nYMNJQScirm3ykZU8kyfmQuEbCC1vtWDH2YyEYYs_pw/edit?usp=sharing
 
+BOM Lead Screw Z
+https://docs.google.com/spreadsheets/d/1incpOYfN3xOxOXJkBM-IeGAFThI5wXblg3JAom1FoRM/edit?usp=sharing
+
 Assembly Videos on Youtube
 https://www.youtube.com/watch?v=IN45c1hOG5U&list=PLypdl9fsWkKeVCWAPe8gXl5UOk-Ysh8ol
 
