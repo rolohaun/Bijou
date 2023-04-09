@@ -1,4 +1,10 @@
 # Bijou
+
+THE ROOK 2020 has replaced this printer!!!!!!!!!
+
+it can be found here
+https://www.printables.com/model/447255-rook-2020
+
 Welcome to the DIY 3D Printer called Bijou!
 
 This is a tiny 140x140 H-Bot 3D Printer for beginner builders
